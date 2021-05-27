@@ -29,7 +29,7 @@
     "dependencies": {
         "chart.js": "^2.9.4",
         "chartjs": "^0.3.24",
-        "jspdf": "^1.5.3",
+        "jspdf": "^2.3.1",
         "v-currency-field": "^3.0.9",
         "vee-validate": "^3.3.0",
         "vue-chartjs": "^3.5.0",
